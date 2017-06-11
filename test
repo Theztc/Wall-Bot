@@ -1,10 +1,10 @@
 {
-    "id": ,
-    "guild_id": ,
+    "id": 314354663719829504,
+    "guild_id": 288865269852667918,
     "name": wallcheck,
     "type": "text",
     "position": 6,
     "permission_overwrites": [],
     "topic": "Wall Check",
-    "last_message_id": ,
+    "last_message_id": 322560460194971649,
  }
