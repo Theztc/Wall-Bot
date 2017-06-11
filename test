@@ -1,1 +1,10 @@
-id
+{
+    "id": ,
+    "guild_id": ,
+    "name": wallcheck,
+    "type": "text",
+    "position": 6,
+    "permission_overwrites": [],
+    "topic": "Wall Check",
+    "last_message_id": ,
+ }
